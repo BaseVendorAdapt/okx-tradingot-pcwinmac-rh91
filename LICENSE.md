@@ -1,4 +1,4 @@
-# 
+# 轻量 okx trading bot 扩展 Mac OS版 | 更新 okx trading bot 扩展 PC Windows版。集成 全仓模式支持 和 私钥安全，跨平台性能最大化。
 
 
 
